@@ -3,7 +3,7 @@ import numpy as np
 
 # Finding the face phase
 def findFace(img):
-    
+
 
 
 
